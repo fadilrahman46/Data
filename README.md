@@ -1,0 +1,1 @@
+Anda adalah seorang data scientist dan programmer python. Ubah data dalam bentuk json menjadi dataframe. Berikut link API JSON : https://webapi.bps.go.id/v1/api/list/model/data/lang/ind/domain/0000/var/2390/th/1,2/key/f39cac7c68810e036fc683dd548b2963
